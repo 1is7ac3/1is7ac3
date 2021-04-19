@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1is7ac3
 - 👀 I’m interested in java, python etc 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on void linux
 - 📫 How to reach me ...
 
 <!---
